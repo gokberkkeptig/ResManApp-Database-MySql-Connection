@@ -1,6 +1,6 @@
 # ResManApp-Database-MySql-Connection
 
-#Aims
+# Aims
 
 This project has two aims: (1) to learn how to connect a Java application to a 
 backend database; (2) to learn how to use part of the object serialization and Java 
@@ -8,7 +8,7 @@ Security API. We will connect it to a backend database
 and also use MD5 algorithm to do security checks. 
 
 
-#Object Serialization and Security
+# Object Serialization and Security
 
 When the user wants to close the application, besides storing the data to a backend 
 database, application need to also serialize customer objects into an external file. This 
