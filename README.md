@@ -98,4 +98,4 @@ implement it in a simple way to display a message on the screen.
 
 # UML-Diagram
 
-![alt text](https://i.imgur.com/W6VMU6T.png)
+![alt text]https://imgur.com/DZ08NM6
